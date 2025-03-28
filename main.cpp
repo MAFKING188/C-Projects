@@ -3,6 +3,7 @@
 
 void increament_watched(Movies &movies, std::string name);
 void add_movie(Movies &movies, std::string name, std::string rating, int watched);
+//just a comment
 
 
 int main(void)
